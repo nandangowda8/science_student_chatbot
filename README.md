@@ -139,28 +139,28 @@ This screen allows students to select their learning level (Junior Explorer, Sci
 ### 🌱 Junior Explorer Mode
 Chat interface for Junior Explorer level with simple explanations and friendly responses.
 
-![Junior Explorer]()
+![Junior Explorer](https://github.com/nandangowda8/science_student_chatbot/blob/a416be7ba620676048a55f2b6828642843ab4476/Screenshot%20(33)%20-%20Copy.png)
 
 ---
 
 ### 🔬 Research Associate Mode
 Advanced learning mode with deeper scientific explanations and Quick Discoveries feature.
 
-![Research Associate](screenshots/research_associate.png)
+![Research Associate]()
 
 ---
 
 ### 🚀 Innovation Fellow Mode
 Highest learning level designed for senior students with advanced science topics and structured responses.
 
-![Innovation Fellow](screenshots/innovation_fellow.png)
+![Innovation Fellow]()
 
 ---
 
 ### 📜 Mission Log (Session History)
 Displays previous chat sessions and allows users to revisit or delete past missions.
 
-![Mission Log](screenshots/mission_log.png)
+![Mission Log]()
 
 ---
 

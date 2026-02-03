@@ -153,7 +153,7 @@ Advanced learning mode with deeper scientific explanations and Quick Discoveries
 ### ⚡ Science Cadet Mode
 Learning mode for middle school students (7th–8th grade) with balanced explanations and guided science concepts.
 
-![Science Cadet]()
+![Science Cadet](https://github.com/nandangowda8/science_student_chatbot/blob/9cd1e3cd50f9e9f8b639dc58315f42bd2a1729f1/Screenshot%20(38).png)
 
 ---
 
@@ -174,7 +174,7 @@ Displays previous chat sessions and allows users to revisit or delete past missi
 ### ⚡ Quick Discoveries
 Predefined topic buttons that help users quickly explore popular science topics.
 
-![Quick Discoveries]()
+![Quick Discoveries](https://github.com/nandangowda8/science_student_chatbot/blob/9cd1e3cd50f9e9f8b639dc58315f42bd2a1729f1/Screenshot%20(38).png)
 
 
 ---

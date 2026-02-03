@@ -150,6 +150,13 @@ Advanced learning mode with deeper scientific explanations and Quick Discoveries
 
 ---
 
+### ⚡ Science Cadet Mode
+Learning mode for middle school students (7th–8th grade) with balanced explanations and guided science concepts.
+
+![Science Cadet]()
+
+---
+
 ### 🚀 Innovation Fellow Mode
 Highest learning level designed for senior students with advanced science topics and structured responses.
 

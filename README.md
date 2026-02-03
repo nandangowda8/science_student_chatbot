@@ -90,7 +90,7 @@ SCIBUDDY/
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
-git clone https://github.com/your-username/SCIBUDDY.git
+git clone https://github.com/nandangowda8/SCIBUDDY.git
 cd SCIBUDDY
 
 ### 2️⃣ Create a virtual environment (optional but recommended)
@@ -132,14 +132,14 @@ streamlit run frontend/app.py
 ### 🏠 Home Screen – Grade Selection
 This screen allows students to select their learning level (Junior Explorer, Science Cadet, Research Associate, Innovation Fellow).
 
-![Home Screen]()
+![Home Screen](https://github.com/nandangowda8/science_student_chatbot/blob/ba4874d7076664bdc8cb344dbb7bd3a19b9f98b3/2026-02-04.png)
 
 ---
 
 ### 🌱 Junior Explorer Mode
 Chat interface for Junior Explorer level with simple explanations and friendly responses.
 
-![Junior Explorer](screenshots/junior_explorer.png)
+![Junior Explorer]()
 
 ---
 

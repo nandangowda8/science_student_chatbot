@@ -146,7 +146,7 @@ Chat interface for Junior Explorer level with simple explanations and friendly r
 ### 🔬 Research Associate Mode
 Advanced learning mode with deeper scientific explanations and Quick Discoveries feature.
 
-![Research Associate]()
+![Research Associate](https://github.com/nandangowda8/science_student_chatbot/blob/3694d8aa49c99c68839fc92eb1f3bbc1aef77c2f/Screenshot%20(35).png)
 
 ---
 

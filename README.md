@@ -160,7 +160,7 @@ Learning mode for middle school students (7th–8th grade) with balanced explana
 ### 🚀 Innovation Fellow Mode
 Highest learning level designed for senior students with advanced science topics and structured responses.
 
-![Innovation Fellow]()
+![Innovation Fellow](https://github.com/nandangowda8/science_student_chatbot/blob/51b05dd65546cf3a72e33afe27841daa1f506cbc/Screenshot%20(39).png)
 
 ---
 

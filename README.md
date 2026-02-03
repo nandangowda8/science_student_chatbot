@@ -160,14 +160,14 @@ Highest learning level designed for senior students with advanced science topics
 ### 📜 Mission Log (Session History)
 Displays previous chat sessions and allows users to revisit or delete past missions.
 
-![Mission Log]()
+![Mission Log](https://github.com/nandangowda8/science_student_chatbot/blob/0dbeb08677902461c9a0bc361e1879c30c391501/Screenshot%20(37).png)
 
 ---
 
 ### ⚡ Quick Discoveries
 Predefined topic buttons that help users quickly explore popular science topics.
 
-![Quick Discoveries](screenshots/quick_discoveries.png)
+![Quick Discoveries]()
 
 
 ---
